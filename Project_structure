@@ -1,0 +1,10 @@
+text-summarizer/
+|
+├── articles/
+│   └── sample_article.txt
+|
+├── summarizer.py
+|
+├── requirements.txt
+|
+└── README.md
